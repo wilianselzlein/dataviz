@@ -1,5 +1,7 @@
 # Pré-processamento de Dados
 
+https://qualidataviz.herokuapp.com/
+
 ## Como rodar o projeto:
 
 **Linux e Mac**
@@ -35,5 +37,5 @@ $ streamlit run app_stramlit.py
 	5 - Transformação da variável independente/target
 
 
-## Licensa
-Esse projeto é de código aberto com licensa do MIT LICENSE.
+## Licença
+Esse projeto é de código aberto com licença do MIT LICENSE.
