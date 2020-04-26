@@ -1,0 +1,5 @@
+matplotlib==3.2.1
+seaborn==0.10.0
+sklearn==0.0
+streamlit==0.57.3
+dnspython==1.16.0
